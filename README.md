@@ -7,6 +7,8 @@ This repository demonstrates the performance of a trained RL policy for a 6-DOF 
 ## Demonstration
 
 **1. Standard Lifting & Stepping Demo (正常吊装演示)**
-<video src="Demo.mp4" controls="controls" width="800" height="600">
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/user-attachments/assets/50017d28-2d3a-4307-a039-0def45d7464e
+
